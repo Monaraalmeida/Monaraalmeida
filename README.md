@@ -110,6 +110,7 @@ Atualmente, atuo na área de FrontEnd. Sou apaixonada por tecnologia, pelos desa
 
 <br/>
 <br/>
+
 ### 📊 Estatísticas
 
 <p>
