@@ -118,7 +118,7 @@ Atualmente, atuo na área de FrontEnd. Sou apaixonada por tecnologia, pelos desa
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 0px;" 
     src="https://github-readme-stats.vercel.app/api?username=Monaraalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
