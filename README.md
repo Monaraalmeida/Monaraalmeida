@@ -124,7 +124,7 @@ Atualmente, atuo na área de FrontEnd. Sou apaixonada por tecnologia, pelos desa
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="500" 
+      height="1000" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monaraalmeida&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
