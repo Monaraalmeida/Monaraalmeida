@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Monara Almeida, tenho 31 anos e sou natural do Rio de Janeiro. Concluí o curso de Tecnologia da informação, sendo meu segundo curso de formação. Também sou graduada em Engenharia de Petróleo, mas devido os desafios econômicos e politicos enfrentados pelo país na época da formação, voltei meu olhar a área da tecnologia, e me encantei.
+Me chamo Monara Almeida, tenho 31 anos e sou natural do Rio de Janeiro. Concluí o curso de Tecnologia da informação, sendo meu segundo curso de formação. Também sou graduada em Engenharia de Petróleo, mas devido os desafios econômicos e politicos enfrentados pelo país na época da formação, optei por um segundo curso. Voltei meu olhar a área da tecnologia, e me encantei.
 Atualmente, atuo na área de FrontEnd. Sou apaixonada por tecnologia, pelos desafios diários que ela nos impõe e pelas descobertas constantes através dos estudos rotineiros.
 
 <p align="left">
